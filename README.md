@@ -6,7 +6,7 @@ A simple Vue 3 product page built with the Composition API. Users can browse soc
 
 ## Preview
 
-<img width="1240" height="1190" alt="vue-socks" src="https://github.com/user-attachments/assets/e9097c6d-6a04-4d1a-8545-991d920f32b5" />
+<img width="1240" height="1190" alt="vue-socks" src="https://github.com/user-attachments/assets/60cc0296-ee67-4a3d-95eb-4ca976d2e8df" />
 
 ---
 
